@@ -1,0 +1,22 @@
+A faire : 
+
+formulaire d'inscription -> verification du numero de telephone
+			-> verifier que les cdts restrcitive fonctionne toutes
+
+footer -> gerer le footer qui se superpose
+
+css -> organiser et commenter les feuilles de style
+
+fiche de formation -> gerer le format date us to fr
+ficche d'inscription -> gerer le format date us to fr
+
+liste des formations -> tout recouper en un seul .php en faisant de la POO
+
+fiche formation -> revoir la mise ne page des dates de session
+
+fiche inscription -> revoir la mise ne page
+
+
+
+
+
